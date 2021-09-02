@@ -1,0 +1,16 @@
+C:\Users\ardat\source\repos\glock\svchost\obj\Debug\svchost.csprojAssemblyReference.cache
+C:\Users\ardat\source\repos\glock\svchost\obj\Debug\svchost.csproj.CoreCompileInputs.cache
+C:\Users\ardat\source\repos\glock\svchost\bin\Debug\svchost.exe
+C:\Users\ardat\source\repos\glock\svchost\bin\Debug\svchost.pdb
+C:\Users\ardat\source\repos\glock\svchost\obj\Debug\svchost.exe
+C:\Users\ardat\source\repos\glock\svchost\obj\Debug\svchost.pdb
+C:\Users\ardat\source\repos\glock\svchost\obj\Debug\Luicipher.Form1.resources
+C:\Users\ardat\source\repos\glock\svchost\obj\Debug\svchost.csproj.GenerateResource.cache
+C:\Users\verfi\source\repos\Glock\svchost\bin\Debug\svchost.exe
+C:\Users\verfi\source\repos\Glock\svchost\bin\Debug\svchost.pdb
+C:\Users\verfi\source\repos\Glock\svchost\obj\Debug\svchost.csproj.AssemblyReference.cache
+C:\Users\verfi\source\repos\Glock\svchost\obj\Debug\Luicipher.Form1.resources
+C:\Users\verfi\source\repos\Glock\svchost\obj\Debug\svchost.csproj.GenerateResource.cache
+C:\Users\verfi\source\repos\Glock\svchost\obj\Debug\svchost.csproj.CoreCompileInputs.cache
+C:\Users\verfi\source\repos\Glock\svchost\obj\Debug\svchost.exe
+C:\Users\verfi\source\repos\Glock\svchost\obj\Debug\svchost.pdb
